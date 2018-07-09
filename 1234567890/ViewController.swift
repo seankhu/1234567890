@@ -11,7 +11,9 @@ import UIKit
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
+        var b = 2
         var a = UIButton()
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
